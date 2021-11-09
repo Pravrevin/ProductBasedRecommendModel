@@ -1,0 +1,3 @@
+Recommendation system part I: Product pupularity based system targetted at new customers
+
+Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items
